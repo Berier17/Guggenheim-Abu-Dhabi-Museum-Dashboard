@@ -1,7 +1,7 @@
 # 🏛️ Guggenheim Abu Dhabi Museum Dashboard
 This advanced analytics project focuses on visualizing museum operations and visitor metrics for the Guggenheim Abu Dhabi. The dashboard was architected to handle complex dataset relationships, providing a centralized view of operational efficiency and visitor engagement.
 
-**🚀 Live Preview:**  [Abu Dhabi Mesuem Dashboard.pdf](https://github.com/user-attachments/files/24394032/Abu.Dhabi.Mesuem.Dashboard.pdf)
+**📄 View PDF Report:**  [Abu Dhabi Mesuem Dashboard.pdf](https://github.com/user-attachments/files/24394032/Abu.Dhabi.Mesuem.Dashboard.pdf)
 
 ## 🛠️ Tools & Technologies
 * **Power BI:** Advanced visualization and reporting.
